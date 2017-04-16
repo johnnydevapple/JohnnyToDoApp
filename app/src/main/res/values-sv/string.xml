@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">PIA6 Att Göra App</string>
-    <string name="title_main">PIA6 Att Göra App</string>
+    <string name="app_name">Att Göra App</string>
+    <string name="title_main">Att Göra App</string>
 
     <string name="navigation_drawer_open">Öppna navigationsvy</string>
     <string name="navigation_drawer_close">Stäng navigationsvy</string>

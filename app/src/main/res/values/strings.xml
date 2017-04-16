@@ -18,4 +18,6 @@
     <string name="label_finished_tasks">Finished Tasks</string>
     <string name="label_archived_tasks">Archived Tasks</string>
     <string name="label_ongoing_tasks">Ongoing Tasks</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
 </resources>
