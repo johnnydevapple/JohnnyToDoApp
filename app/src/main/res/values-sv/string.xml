@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PIA6 Att Göra App</string>
+    <string name="title_main">PIA6 Att Göra App</string>
+
+    <string name="navigation_drawer_open">Öppna navigationsvy</string>
+    <string name="navigation_drawer_close">Stäng navigationsvy</string>
+
+    <string name="action_settings">Inställningar</string>
+
+
+    <string name="hello_blank_fragment">Hej</string>
+    <string name="hint_title">Titel på Uppgift</string>
+    <string name="hint_description">Beskrivning av uppgift</string>
+    <string name="label_completed">Slutförd</string>
+    <string name="label_all_tasks">Alla uppgifter</string>
+    <string name="Statistics">Statistik</string>
+    <string name="Info">Info</string>
+    <string name="label_finished_tasks">Slutförda uppgifter</string>
+    <string name="label_archived_tasks">Arkiverade uppgifter</string>
+    <string name="label_ongoing_tasks">Pågående uppgifter</string>
+
+
+</resources>
