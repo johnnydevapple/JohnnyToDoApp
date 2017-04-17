@@ -19,6 +19,9 @@
     <string name="label_finished_tasks">Slutförda uppgifter</string>
     <string name="label_archived_tasks">Arkiverade uppgifter</string>
     <string name="label_ongoing_tasks">Pågående uppgifter</string>
-
+    <string name="save">Spara</string>
+    <string name="delete">Radera</string>
+    <string name="johnny_varga">Johnny Varga</string>
+    <string name="what_to_do_app">Att Göra App</string>
 
 </resources>
