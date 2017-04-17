@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">What To Do App</string>
+    <string name="title_main">What To Do App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_title">Title of the task</string>
+    <string name="hint_description">Description of the task</string>
+    <string name="label_completed">Completed</string>
+    <string name="label_all_tasks">All tasks</string>
+    <string name="Statistics">Statistics</string>
+    <string name="Info">Info</string>
+    <string name="label_finished_tasks">Finished Tasks</string>
+    <string name="label_archived_tasks">Archived Tasks</string>
+    <string name="label_ongoing_tasks">Ongoing Tasks</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="johnny_varga">Johnny Varga</string>
+    <string name="What_To_Do_App" />
+    <string name="what_to_do_app">What To Do App</string>
+</resources>
