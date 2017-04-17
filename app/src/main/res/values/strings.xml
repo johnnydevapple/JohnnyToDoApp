@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">PIA6 TODO Application</string>
-    <string name="title_main">PIA6 TODO Application</string>
+    <string name="app_name">What To Do App</string>
+    <string name="title_main">What To Do App</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -20,4 +20,7 @@
     <string name="label_ongoing_tasks">Ongoing Tasks</string>
     <string name="save">Save</string>
     <string name="delete">Delete</string>
+    <string name="johnny_varga">Johnny Varga</string>
+    <string name="What_To_Do_App" />
+    <string name="what_to_do_app">What To Do App</string>
 </resources>
